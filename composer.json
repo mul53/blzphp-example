@@ -1,0 +1,20 @@
+{
+    "name": "mulenga/blzphp-example",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mulenga Bowa",
+            "email": "mulengabowa53@gmail.com"
+        }
+    ],
+    "require": {
+        "bluzelle/blzphp": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mul53/blzphp.git"
+        }
+    ]
+}
